@@ -2,13 +2,11 @@ body {
 background-color: black;
 }
 
-.nasrodku {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
 
-a{
-font-size: 200px;
-}
+
